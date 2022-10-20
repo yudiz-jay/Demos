@@ -1,0 +1,14 @@
+D:\netcore\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.csproj.AssemblyReference.cache
+D:\netcore\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\netcore\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.AssemblyInfoInputs.cache
+D:\netcore\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.AssemblyInfo.cs
+D:\netcore\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.csproj.CoreCompileInputs.cache
+D:\netcore\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.exe
+D:\netcore\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.deps.json
+D:\netcore\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.runtimeconfig.json
+D:\netcore\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.runtimeconfig.dev.json
+D:\netcore\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.dll
+D:\netcore\DelegateDemo\bin\Debug\netcoreapp3.1\DelegateDemo.pdb
+D:\netcore\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.dll
+D:\netcore\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.pdb
+D:\netcore\DelegateDemo\obj\Debug\netcoreapp3.1\DelegateDemo.genruntimeconfig.cache
